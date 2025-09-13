@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asrith Raju</h1>
-<h3 align="center">🚀 Full Stack Developer | Backend Enthusiast | Lifelong Learner</h3>
+<h3 align="center">🚀 Full Stack Developer | Frontend Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=1000&color=1E90FF&center=true&vCenter=true&width=560&lines=Welcome+to+my+GitHub!;Passionate+about+Web+Development;Learning+MERN+Stack;Building+Real-World+Projects;On+my+way+to+Full+Stack+Developer" alt="Typing SVG" />
