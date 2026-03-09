@@ -21,23 +21,23 @@
 
 <div align="center">
 
-  ![](https://github-readme-stats.vercel.app/api?username=asrith-raju&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api?username=ASRITH-Forge&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-  ![](https://nirzak-streak-stats.vercel.app/?user=asrith-raju&theme=dark&hide_border=false)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=ASRITH-Forge&theme=dark&hide_border=false)<br/>
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asrith-raju&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ASRITH-Forge&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
 ---
 
-![Asrith's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asrith-raju&theme=react-dark&hide_border=true)
+![Asrith's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ASRITH-Forge&theme=react-dark&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asrith-raju&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ASRITH-Forge&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 ---
 <h2>💻 Tech Stack:</h2>
