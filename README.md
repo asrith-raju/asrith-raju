@@ -27,17 +27,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASRITH-Forge&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 </p>
-
----
-
-![Asrith's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ASRITH-Forge&theme=react-dark&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ASRITH-Forge&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
 ---
 <h2>💻 Tech Stack:</h2>
 <p align="cente">
