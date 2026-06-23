@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asrith Raju</h1>
-<h3 align="center">🚀 Full Stack Developer | Frontend Enthusiast | Lifelong Learner</h3>
+<h3 align="center">🚀 Full Stack Developer | Frontend Enthusiast | Turning Code into Solutions</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=1000&color=1E90FF&center=true&vCenter=true&width=560&lines=Welcome+to+my+GitHub!;Passionate+about+Web+Development;Learning+MERN+Stack;Building+Real-World+Projects;On+my+way+to+Full+Stack+Developer" alt="Typing SVG" />
@@ -98,8 +98,4 @@
   <a href="mailto:asrithraju11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a> 
   <a href="https://instagram.com/asrithraju__" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram"></a> 
   <a href="https://facebook.com/AsrithRaju" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white" alt="Facebook"></a>
-</p>
-
-<p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=asrith-raju&icon=0&color=0" alt="Visitor Count" />
 </p>
