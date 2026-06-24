@@ -15,6 +15,10 @@
 💡 **Core Focus:** Writing clean, maintainable code and solving real-world challenges through software.
 
 ---
+## Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,typescript,python,html,css,react,nodejs,express,mongodb,tailwind,git,github" />
+</p>
 
 ##  Featured Projects
 
@@ -39,10 +43,6 @@
 
 ---
 
-## Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,typescript,python,html,css,react,nodejs,express,mongodb,tailwind,git,github" />
-</p>
 
 ## GitHub Metrics
 
