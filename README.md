@@ -23,10 +23,14 @@
 * **Tech Stack:** JavaScript, MongoDB, Express.js, React, Node.js
 * **Links:** [Live Demo](https://edemy-lms-website-frontend.vercel.app/) | [GitHub Repository](https://github.com/ASRITH-Forge/Edemy-LMS-website)
 
+---
+
 ###  [PromptIQ AI](https://github.com/ASRITH-Forge/promptiq-ai)
 * **Description:** A responsive MERN stack-based AI chat application designed for intelligent, prompt-driven conversations. It delivers near-instantaneous, context-aware responses powered by deep AI integration.
 * **Tech Stack:** JavaScript, React, Node.js, Express.js, MongoDB, AI API
 * **Links:** [Live Demo](https://promptiq-ai.vercel.app/) | [GitHub Repository](https://github.com/ASRITH-Forge/promptiq-ai)
+
+---
 
 ### [AI Thumbnail Generator](https://github.com/ASRITH-Forge/AI-Thumbnail-Generator)
 * **Description:** A full-stack creative utility web application that empowers content creators to generate high-quality, high-CTR (click-through-rate) YouTube thumbnails dynamically using artificial intelligence models.
