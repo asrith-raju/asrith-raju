@@ -5,14 +5,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=1000&color=1E90FF&center=true&vCenter=true&width=560&lines=Welcome+to+my+GitHub!;Passionate+about+Web+Development;Learning+MERN+Stack;Building+Real-World+Projects;On+my+way+to+Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/AsrithRajuSrinadhuni" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:asrithraju11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 🎓 **Engineering Student** passionate about Web Development & building scalable real-world applications.  
 🌱 **Currently Mastering:** Deeper architectures of the MERN Stack (MongoDB, Express.js, React, Node.js).  
@@ -21,32 +16,32 @@
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🎓 [Edemy - LMS Website](https://github.com/ASRITH-Forge/Edemy-LMS-website)
+### [Edemy - LMS Website](https://github.com/ASRITH-Forge/Edemy-LMS-website)
 * **Description:** A comprehensive full-stack Learning Management System built using the MERN stack. It features role-based access control (Student and Educator paths), end-to-end course management, secure authentication, and online payment integration.
 * **Tech Stack:** JavaScript, MongoDB, Express.js, React, Node.js
 * **Links:** [Live Demo](https://edemy-lms-website-frontend.vercel.app/) | [GitHub Repository](https://github.com/ASRITH-Forge/Edemy-LMS-website)
 
-### 🤖 [PromptIQ AI](https://github.com/ASRITH-Forge/promptiq-ai)
+###  [PromptIQ AI](https://github.com/ASRITH-Forge/promptiq-ai)
 * **Description:** A responsive MERN stack-based AI chat application designed for intelligent, prompt-driven conversations. It delivers near-instantaneous, context-aware responses powered by deep AI integration.
 * **Tech Stack:** JavaScript, React, Node.js, Express.js, MongoDB, AI API
 * **Links:** [Live Demo](https://promptiq-ai.vercel.app/) | [GitHub Repository](https://github.com/ASRITH-Forge/promptiq-ai)
 
-### 🎨 [AI Thumbnail Generator](https://github.com/ASRITH-Forge/AI-Thumbnail-Generator)
+### [AI Thumbnail Generator](https://github.com/ASRITH-Forge/AI-Thumbnail-Generator)
 * **Description:** A full-stack creative utility web application that empowers content creators to generate high-quality, high-CTR (click-through-rate) YouTube thumbnails dynamically using artificial intelligence models.
 * **Tech Stack:** TypeScript, React, Node.js, Tailwind CSS
 * **Links:** [Live Demo](https://ai-thumbnail-generator-frontend.vercel.app/) | [GitHub Repository](https://github.com/ASRITH-Forge/AI-Thumbnail-Generator)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,typescript,python,html,css,react,nodejs,express,mongodb,tailwind,git,github" />
 </p>
 ---
 
-## 📊 GitHub Metrics
+## GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ASRITH-Forge&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
